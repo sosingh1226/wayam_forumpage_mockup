@@ -1,0 +1,18 @@
+body  {
+    background-image: url("https://www.shethepeople.tv/wp-content/uploads/2019/05/Children-e1573459400716.jpg");
+    background-image: cross-fade();
+    /* background-image: url("https://www.sayingtruth.com/wp-content/uploads/2016/07/girl-998988_640-min-1.jpg"); */
+    font-size: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: palegoldenrod;
+    color: darkred;
+    text-align: center;
+    font-family: 'Sacramento', cursive, 'Amatic SC', cursive;
+    font-size: 30px;
+}
